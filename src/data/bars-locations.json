@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "locationId": "przedwojennarynek",
+    "name": "Przedwojenna",
+    "gps": {
+      "latitude": 51.111037,
+      "longitude": 17.030387
+    }
+  },
+  {
+    "id": 2,
+    "locationId": "ambasadarynek",
+    "name": "Ambasada",
+    "gps": {
+      "latitude": 51.1115053,
+      "longitude": 17.0283364
+    }
+  },
+  {
+    "id": 3,
+    "locationId": "ministerstworynek",
+    "name": "Ministerstwo Sledzia i Wodki",
+    "gps": {
+      "latitude": 51.110379,
+      "longitude": 17.027914
+    }
+  },
+  {
+    "id": 4,
+    "locationId": "arbarrynek",
+    "name": "AR-Bar",
+    "gps": {
+      "latitude": 51.110465,
+      "longitude": 17.030639
+    }
+  },
+  {
+    "id": 5,
+    "locationId": "pijanlniarynek",
+    "name": "Pijalnia Wodki i Piwa",
+    "gps": {
+      "latitude": 51.110465,
+      "longitude": 17.032366
+    }
+  },
+  {
+    "id": 6,
+    "locationId": "czeskirynek",
+    "name": "Czeski Film",
+    "gps": {
+      "latitude": 51.110277,
+      "longitude": 17.029545
+    }
+  },
+  {
+    "id": 7,
+    "locationId": "kombinatrynek",
+    "name": "Kombinat",
+    "gps": {
+      "latitude": 51.109728,
+      "longitude": 17.028966
+    }
+  },
+  {
+    "id": 8,
+    "locationId": "podlatarniamirynek",
+    "name": "Pod Latarniami",
+    "gps": {
+      "latitude": 51.11001,
+      "longitude": 17.028368
+    }
+  },
+  {
+    "id": 9,
+    "locationId": "graciarniarynek",
+    "name": "Graciarnia",
+    "gps": {
+      "latitude": 51.107698,
+      "longitude": 17.030175
+    }
+  },
+  {
+    "id": 10,
+    "locationId": "kontynuacjarynek",
+    "name": "Kontynuacja",
+    "gps": {
+      "latitude": 51.108495,
+      "longitude": 17.031736
+    }
+  }
+]
