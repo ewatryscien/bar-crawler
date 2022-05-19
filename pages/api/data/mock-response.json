@@ -1,0 +1,97 @@
+{
+  "bars": [
+    {
+      "id": 10,
+      "locationId": "kontynuacjarynek",
+      "name": "Kontynuacja",
+      "coords": { "latitude": 51.108495, "longitude": 17.031736 }
+    },
+    {
+      "id": 3,
+      "locationId": "ministerstworynek",
+      "name": "Ministerstwo Sledzia i Wodki",
+      "coords": { "latitude": 51.110379, "longitude": 17.027914 }
+    },
+    {
+      "id": 5,
+      "locationId": "pijanlniarynek",
+      "name": "Pijalnia Wodki i Piwa",
+      "coords": { "latitude": 51.110465, "longitude": 17.032366 }
+    },
+    {
+      "id": 2,
+      "locationId": "ambasadarynek",
+      "name": "Ambasada",
+      "coords": { "latitude": 51.1115053, "longitude": 17.0283364 }
+    }
+  ],
+  "directions": [
+    [
+      [51.10851, 17.03174],
+      [51.10888, 17.02986],
+      [51.109, 17.02985],
+      [51.10904, 17.02977],
+      [51.1092, 17.0289],
+      [51.10924, 17.02885],
+      [51.10927, 17.02883],
+      [51.10982, 17.02907],
+      [51.10988, 17.029],
+      [51.10989, 17.02893],
+      [51.10993, 17.02895],
+      [51.11015, 17.02784],
+      [51.11037, 17.02794]
+    ],
+    [
+      [51.11037, 17.02794],
+      [51.11142, 17.02841],
+      [51.1114, 17.02849],
+      [51.11142, 17.02851],
+      [51.11101, 17.03069],
+      [51.11104, 17.03079],
+      [51.11097, 17.03087],
+      [51.11085, 17.03154],
+      [51.11071, 17.03146],
+      [51.11047, 17.03237]
+    ],
+    [
+      [51.11047, 17.03237],
+      [51.11071, 17.03146],
+      [51.11085, 17.03154],
+      [51.11097, 17.03087],
+      [51.11099, 17.03084],
+      [51.11104, 17.03079],
+      [51.11151, 17.02833]
+    ]
+  ],
+  "times": [5, 5, 4],
+  "instructions": [
+    [
+      "Kontynuuj na wprost na Ofiar Oświęcimskich",
+      "Skręć w prawo na Eugeniusza Gepperta",
+      "Kontynuuj na wprost na Plac Solny",
+      "Skręć w lewo",
+      "Skręć w prawo",
+      "Skręć w lewo",
+      "Skręć w prawo na Rzeźnicza",
+      "Przyjedź do miejsca przeznaczenia"
+    ],
+    [
+      "Kontynuuj na wprost na Rzeźnicza",
+      "Skręć w prawo",
+      "Skręć w prawo",
+      "Lekko w lewo na Rynek",
+      "Skręć w prawo",
+      "Skręć w lewo na Rynek Ratusz",
+      "Przyjedź do miejsca przeznaczenia"
+    ],
+    [
+      "Kontynuuj na wprost na Rynek Ratusz",
+      "Skręć w prawo",
+      "Skręć w lewo na Rynek",
+      "Lekko w prawo",
+      "Kontynuuj na wprost",
+      "Kontynuuj na wprost na Świętego Mikołaja",
+      "Przyjedź do miejsca przeznaczenia"
+    ]
+  ]
+}
