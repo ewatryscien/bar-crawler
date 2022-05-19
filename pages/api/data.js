@@ -1,7 +1,8 @@
 import barsData from "./data/bars-locations.json";
-import mockResponse from "./data/mock-response.json";
-const citymapperApiKey = process.env.CM_API_KEY;
 import { decode } from "@googlemaps/polyline-codec";
+import mockResponse from "./data/mock-response.json";
+
+const citymapperApiKey = process.env.CM_API_KEY;
 
 export default async function handler(req, res) {
   const { method } = req;
