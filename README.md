@@ -1,6 +1,9 @@
 Uruchomienie:
+
+```bash
 npm install
 npm run next-dev
+```
 
 Bar crawl app
 Ma za zadanie wyświetlać losowe bary w okolicy i trasę pomiędzy nimi.
